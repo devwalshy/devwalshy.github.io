@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://devwalshy.github.io/static/css/main.ccec5145.css",
+    "main.js": "https://devwalshy.github.io/static/js/main.4be57805.js",
+    "static/js/453.2dc95e5d.chunk.js": "https://devwalshy.github.io/static/js/453.2dc95e5d.chunk.js",
+    "service-worker.js": "https://devwalshy.github.io/service-worker.js",
+    "index.html": "https://devwalshy.github.io/index.html",
+    "main.ccec5145.css.map": "https://devwalshy.github.io/static/css/main.ccec5145.css.map",
+    "main.4be57805.js.map": "https://devwalshy.github.io/static/js/main.4be57805.js.map",
+    "453.2dc95e5d.chunk.js.map": "https://devwalshy.github.io/static/js/453.2dc95e5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccec5145.css",
+    "static/js/main.4be57805.js"
+  ]
+}
